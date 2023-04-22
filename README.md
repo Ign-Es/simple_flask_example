@@ -16,3 +16,4 @@ curl http://localhost:5000/score \
     --header "Content-Type: application/json" \
     --data '{"X": [1, 2]}'
 ```
+It is also possible to simply clone the repository and activate the virtual environment
